@@ -16,5 +16,5 @@ Here is my new 3D Dice made with SwiftUI and Scenekit 😁✌️
            )
 ```
 
-## Usdz Dice 3D model 
-[link to DICE!](https://poly.google.com/view/bA4lAfgNYjd)
+## Usdz Dice 3D model [link to DICE!](https://poly.google.com/view/bA4lAfgNYjd)
+
