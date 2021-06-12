@@ -1,7 +1,7 @@
 # DiceSwiftUI
 Here is my new 3D Dice made with SwiftUI and Scenekit 😁✌️
 
-![Image of Dice]()
+![Image of Dice](https://github.com/TheAppWizard/DiceSwiftUI/blob/main/dice.png)
 
 ## Scenekit Code
 ```
